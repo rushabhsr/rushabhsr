@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rushabh Sarvaiya</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working at [Vistaar Technologies](https://www.vistaar.com/)
+- 🔭 I’m currently working at [Fynd](https://www.omnifynd.com/)
 
-- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, Linux**
+- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB, Linux, Python, Sanic**
 
 - 📫 How to reach me **sarvaiya.rushabh@gmail.com**
 
